@@ -33,6 +33,7 @@ public class GUI extends javax.swing.JFrame {
     private String turn ="X";
     private int player1=0;
     private int player2=0;
+    
    
     
   
